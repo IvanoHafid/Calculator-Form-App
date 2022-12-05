@@ -3,5 +3,3 @@
 
 Pemograman Lanjut
 Pertemuan 8 (Delegasi dan Event)
-21.11.3973
-Universitas Amikom Yogyakarta
